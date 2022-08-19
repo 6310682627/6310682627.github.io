@@ -8,4 +8,5 @@
 #### HOBBIES : ACEU / APEX
 #### 
 
-<a href="https://ibb.co/C926WnM"><img src="https://i.ibb.co/C926WnM/Nasu-Alpaca-Farm.jpg" alt="Nasu-Alpaca-Farm" border="0"></a>
+
+![IMG_6924](https://user-images.githubusercontent.com/69451494/185683036-b8292fe5-f61a-4f80-b90e-ea294402a641.jpg)
