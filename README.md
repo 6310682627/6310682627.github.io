@@ -9,4 +9,4 @@
 #### 
 
 
-![IMG_6924](https://user-images.githubusercontent.com/69451494/185683036-b8292fe5-f61a-4f80-b90e-ea294402a641.jpg)
+<img src="https://user-images.githubusercontent.com/69451494/185683036-b8292fe5-f61a-4f80-b90e-ea294402a641.jpg" width="150">
